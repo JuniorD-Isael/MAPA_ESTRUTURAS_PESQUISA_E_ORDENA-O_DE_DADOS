@@ -138,7 +138,7 @@ Este projeto está sob licença acadêmica e foi desenvolvido para fins educacio
 
 ---
 
-**Universidade:** [Nome da Universidade]  
-**Curso:** [Nome do Curso]  
+**Universidade:** Unicesumar  
+**Curso:** Análise e Desenvolvimento de Sistemas
 **Disciplina:** Estruturas de Pesquisa e Ordenação de Dados  
 **Ano:** 2025
